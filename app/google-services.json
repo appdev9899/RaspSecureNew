@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "439513133155",
+    "firebase_url": "https://raspnew-47b2d.firebaseio.com",
+    "project_id": "raspnew-47b2d",
+    "storage_bucket": "raspnew-47b2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439513133155:android:6dd363e50ea74990",
+        "android_client_info": {
+          "package_name": "com.apps.wolvy.raspsecurenew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439513133155-1d1sckl1jurevrm38s9n6afa44s99o97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.wolvy.raspsecurenew",
+            "certificate_hash": "76e03d1264dbd0e43f6f459aae83ec3dd9a97ed3"
+          }
+        },
+        {
+          "client_id": "439513133155-7hd07e46ka0mlkhnckn2rgo5j9rj1orq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDsuajwDuh47JUgjtTgELeGAf1Qn_sRzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439513133155-7hd07e46ka0mlkhnckn2rgo5j9rj1orq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
