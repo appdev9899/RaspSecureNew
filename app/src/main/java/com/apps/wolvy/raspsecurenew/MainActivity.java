@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
     FragmentTransaction mFragmentTransaction;
     ActionBarDrawerToggle mDrawerToggle;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

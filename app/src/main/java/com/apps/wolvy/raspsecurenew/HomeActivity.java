@@ -18,7 +18,7 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 
 
-public class HomeActivity extends Fragment {
+public class HomeActivity extends Fragment{
 
     String dates,times;
     @Nullable
